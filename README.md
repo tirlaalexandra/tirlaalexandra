@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
  
-🛠 I’m currently working on: Developing web applications using Angular and PHP.
+🛠 I’m currently working on: Developing an e-commerce app with .Net Core and Angular.
 
 🤝 I’m looking to collaborate on: Frontend or full-stack projects.
 
